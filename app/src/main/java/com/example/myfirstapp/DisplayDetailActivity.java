@@ -17,8 +17,6 @@ public class DisplayDetailActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_display_detail);
 
-       // ArrayList<Beer> beer = Beer.getDummyBeers();
-        //Beer beer2 = beer.get(0);
         Intent intent = getIntent();
 
         TextView textTitle = findViewById(R.id.textTitle);

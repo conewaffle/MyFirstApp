@@ -1,5 +1,7 @@
 package com.example.myfirstapp;
 
+import com.google.gson.Gson;
+
 import java.util.ArrayList;
 
 public class Beer {
